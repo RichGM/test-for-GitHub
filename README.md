@@ -1,2 +1,2 @@
 # Test
-test for Github
+test for GiHub
